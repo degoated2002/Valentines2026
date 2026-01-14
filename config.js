@@ -23,35 +23,35 @@ const CONFIG = {
     questions: {
         first: {
             text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            yesBtn: "Yass",                                             // Text for "Yes" button
+            noBtn: "Naurr",                                               // Text for "No" button
+            secretAnswer: "I don't like you, I LOVE you! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            startText: "only :(!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
+            yesBtn: "YES!",                                             // Text for "Yes" button
+            noBtn: "no :(("                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "HEHEHEH u must really love me 🥰💝",  // Shows when they go past 5000%
+        high: "tis is goooooo 💝",              // Shows when they go past 1000%
+        normal: "LESSGOOOO 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "YAYIEEEE. IM THE LUCKIEST GUY EVER! 💝💖💝💓",
+        message: "LOVE YOU SOOOOOOOOOOOO MUCH MORE THO HEHEHE. Kissies to follow on call💕💕",
+        emojis: "❤️❤️❤️❤️❤️❤️❤️"  // These will bounce around
     },
 
     // Color scheme for the website
